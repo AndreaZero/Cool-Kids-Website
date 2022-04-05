@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0207571d97C004dDA733098d35f0c54D4449147f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x7d66c7c1af80816a2e00486d47f53780648682af6ad2c988efc92ae2d5172af1",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cool Kids NFT TEST",
+  "SYMBOL": "CKTEST",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-kids-test",
+  "SHOW_BACKGROUND": true
+}
